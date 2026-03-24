@@ -13,6 +13,7 @@ Welcome to the FICO® Xpress organization page on Github! Here you can find powe
 | [mosel-vim-plugin](https://github.com/fico-xpress/mosel-vim-plugin) | Mosel Vim Script for syntax highlighting and editing support. | Vim script |
 | [python-notebooks](https://github.com/fico-xpress/python-notebooks) | Jupyter notebook examples for the FICO Xpress Python API. Perfect for getting started with optimization in Python. | Python |
 | [xpress-community](https://github.com/fico-xpress/xpress-community) | Projects and examples from the FICO Xpress community. Explore real-world applications and contributions from our users. | Various |
+| [xpress-3rdparty-interfaces](https://github.com/fico-xpress/xpress-3rdparty-interfaces) | Integration examples for using FICO Xpress Solver with third-party optimization modeling libraries. | Various |
 | [xpress-dockerfiles](https://github.com/fico-xpress/xpress-dockerfiles) | Dockerfiles for FICO Xpress. Simplify your deployment with pre-configured container setups. | Dockerfile |
 | [XpressAPI.jl](https://github.com/fico-xpress/XpressAPI.jl) | A low-level Julia interface to the FICO Xpress solver's C library. Bring optimization power to your Julia projects. | Julia |
 
