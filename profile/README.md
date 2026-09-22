@@ -6,16 +6,25 @@ Welcome to the FICO® Xpress organization page on Github! Here you can find powe
 
 ### Xpress Solver and Xpress Mosel
 
+#### Examples & Learning Material
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [python-notebooks](https://github.com/fico-xpress/python-notebooks) | Jupyter and Marimo notebook examples for the FICO Xpress Python and Mosel Python interfaces. Perfect for getting started with optimization in Python. | Python, Mosel |
+| [xpress-training](https://github.com/fico-xpress/xpress-training) | Training material covering topics related to Xpress Solver, Xpress Solver Python API, and Xpress Mosel, with slide decks and hands-on exercises. | Python, Mosel |
+| [xpress-community](https://github.com/fico-xpress/xpress-community) | Projects and examples from the FICO Xpress community. Explore real-world applications and contributions from our users. | Various |
+| [xpress-ai-helpers](https://github.com/fico-xpress/xpress-ai-helpers) | Skills to support working with LLMs or AI coding agents on Xpress-related topics such as the Python API, Mosel, and documentation search. | Markdown |
+
+#### Software Components and Tooling
+
 | Repository | Description | Language |
 |------------|-------------|----------|
 | [mosel](https://github.com/fico-xpress/mosel) | FICO Xpress Mosel Open Source Repository. Our modeling and programming language for solving complex problems. | C, Mosel |
 | [mosel-syntax-highlighting](https://github.com/fico-xpress/mosel-syntax-highlighting) | Syntax highlighting for FICO Xpress Mosel in JetBrains IntelliJ Platform and Notepad++. | Various |
 | [mosel-vim-plugin](https://github.com/fico-xpress/mosel-vim-plugin) | Mosel Vim Script for syntax highlighting and editing support. | Vim script |
-| [python-notebooks](https://github.com/fico-xpress/python-notebooks) | Jupyter notebook examples for the FICO Xpress Python API. Perfect for getting started with optimization in Python. | Python |
-| [xpress-community](https://github.com/fico-xpress/xpress-community) | Projects and examples from the FICO Xpress community. Explore real-world applications and contributions from our users. | Various |
-| [xpress-3rdparty-interfaces](https://github.com/fico-xpress/xpress-3rdparty-interfaces) | Integration examples for using FICO Xpress Solver with third-party optimization modeling libraries. | Various |
-| [xpress-dockerfiles](https://github.com/fico-xpress/xpress-dockerfiles) | Dockerfiles for FICO Xpress. Simplify your deployment with pre-configured container setups. | Dockerfile |
 | [XpressAPI.jl](https://github.com/fico-xpress/XpressAPI.jl) | A low-level Julia interface to the FICO Xpress solver's C library. Bring optimization power to your Julia projects. | Julia |
+| [xpress-dockerfiles](https://github.com/fico-xpress/xpress-dockerfiles) | Dockerfiles for FICO Xpress. Simplify your deployment with pre-configured container setups. | Dockerfile |
+| [xpress-3rdparty-interfaces](https://github.com/fico-xpress/xpress-3rdparty-interfaces) | Integration examples for using FICO Xpress Solver with third-party optimization modeling libraries. | Various |
 
 ### Xpress Insight
 
