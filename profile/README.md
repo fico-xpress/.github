@@ -24,7 +24,7 @@ Welcome to the FICO® Xpress organization page on Github! Here you can find powe
 | [mosel](https://github.com/fico-xpress/mosel) | FICO Xpress Mosel Open Source Repository. Our modeling and programming language for solving complex problems. | C, Mosel |
 | [mosel-syntax-highlighting](https://github.com/fico-xpress/mosel-syntax-highlighting) | Syntax highlighting for FICO Xpress Mosel in JetBrains IntelliJ Platform and Notepad++. | Various |
 | [mosel-vim-plugin](https://github.com/fico-xpress/mosel-vim-plugin) | Mosel Vim Script for syntax highlighting and editing support. | Vim script |
-| releases](https://github.com/fico-xpress/releases) | Download FICO Xpress releases and patches | Various |
+| [releases](https://github.com/fico-xpress/releases) | Download FICO Xpress releases and patches | Various |
 | [XpressAPI.jl](https://github.com/fico-xpress/XpressAPI.jl) | A low-level Julia interface to the FICO Xpress solver's C library. Bring optimization power to your Julia projects. | Julia |
 | [xpress-dockerfiles](https://github.com/fico-xpress/xpress-dockerfiles) | Dockerfiles for FICO Xpress. Simplify your deployment with pre-configured container setups. | Dockerfile |
 | [xpress-3rdparty-interfaces](https://github.com/fico-xpress/xpress-3rdparty-interfaces) | Integration examples for using FICO Xpress Solver with third-party optimization modeling libraries. | Various |
